@@ -1,0 +1,5 @@
+Password: 1234
+Fullname: Nihal Ahmed
+Balance: 10000
+Payment Confirmed!
+C:\BHMS\src\main\java\Flat_Owner\Flat_Details\Bashundhara\Suraiya.txt

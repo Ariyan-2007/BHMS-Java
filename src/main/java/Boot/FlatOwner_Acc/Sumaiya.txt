@@ -1,0 +1,4 @@
+Password: 1234
+Fullname: Sumaiya Meem
+Balance: 5000
+C:\Users\User\Desktop\BHMS\src\main\java\Flat_Owner\Flat_Details\Bashundhara\Rupayan.txt

@@ -1,0 +1,4 @@
+Password: 6321
+Fullname: Faisal Shoron
+Balance: 5000
+C:\BHMS\src\main\java\Flat_Owner\Flat_Details\Niketon\Johura.txt

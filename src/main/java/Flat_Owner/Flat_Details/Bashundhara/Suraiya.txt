@@ -1,0 +1,4 @@
+Flat Owner: Ariyan
+Address: 3a , Road 1
+No. Of Rooms: 3
+Rent: 40000

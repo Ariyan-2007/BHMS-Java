@@ -1,0 +1,4 @@
+Password: 1234
+Fullname: Tajwar Abtahi
+Balance: 5000
+C:\BHMS\src\main\java\Flat_Owner\Flat_Details\Nikunjo II\Rodela.txt

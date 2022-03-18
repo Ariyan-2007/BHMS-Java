@@ -1,0 +1,4 @@
+Flat Owner: Faisal
+Address: B2, Road 3, Block B
+No. Of Rooms: 2
+Rent: 15000
