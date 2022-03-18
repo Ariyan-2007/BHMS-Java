@@ -1,0 +1,15 @@
+Boot\BSignup$HandlerClass.class
+Boot\FOSignup$HandlerClass.class
+Boot\Portal$HandlerClass.class
+Boot\PreLogin.class
+Boot\Launch.class
+Boot\FOSignup.class
+Boot\BLogin$HandlerClass.class
+Boot\PreLogin$HandlerClass.class
+Boot\BSignup.class
+Boot\PreSignup$HandlerClass.class
+Boot\BLogin.class
+Boot\FOLogin.class
+Boot\PreSignup.class
+Boot\Portal.class
+Boot\FOLogin$HandlerClass.class

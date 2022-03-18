@@ -1,0 +1,5 @@
+Password: 1234
+Fullname: Maheen Hasan
+Balance: 7000
+Payment Confirmed!
+C:\BHMS\src\main\java\Flat_Owner\Flat_Details\Bashundhara\Rupayan.txt

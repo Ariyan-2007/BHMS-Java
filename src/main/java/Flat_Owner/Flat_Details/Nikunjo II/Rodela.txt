@@ -1,0 +1,4 @@
+Flat Owner: Taj
+Address: 3/B, Road 5
+No. Of Rooms: 3
+Rent: 20000

@@ -1,0 +1,4 @@
+Password: 12345
+Fullname: Ariyan Jahangir
+Balance: 5000
+C:\BHMS\src\main\java\Flat_Owner\Flat_Details\Bashundhara\Suraiya.txt
