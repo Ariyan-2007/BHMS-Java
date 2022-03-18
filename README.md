@@ -1,1 +1,1 @@
-# BHMS-Java
+Bachelor's Housing Management System [ Java ]
